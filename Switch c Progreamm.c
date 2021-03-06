@@ -3,7 +3,7 @@ void main ()
 {
     int choice,a,b,sum,sub,Multiply,division;
     while(1)
-    {
+    { 
     printf("\n1. Addition");
     printf("\n2. odd-even");
     printf("\n3. printing N number");
