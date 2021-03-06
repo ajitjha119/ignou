@@ -3,13 +3,13 @@ void main ()
 {
     int choice,a,b,sum,sub,Multiply,division;
     while(1)
-    { 
+    {
     printf("\n1. Addition");
     printf("\n2. odd-even");
     printf("\n3. printing N number");
     printf("\n4. sub");
     printf("\n5. Multiply");
-    printf("\n6. division");
+    printf("\n6. division of a & b");
     printf("\n7. exit");
 
     printf(" \n Enter the choice\n");
